@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["console","log"],"mappings":"AAAAA,OAAO,CAACC,GAAG,CAAC,IAAI,CAAC","file":"vanilla-redux.e31bb0bc.js","sourceRoot":"..","sourcesContent":["console.log(\"hi\");\r\n"]}
